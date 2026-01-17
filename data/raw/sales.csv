@@ -1,0 +1,9 @@
+order_id,order_date,customer_id,customer_country,product,category,quantity,unit_price
+1,2023-01-05,C001,Germany,Laptop,Electronics,1,1200
+2,2023-01-07,C002,Netherlands,Headphones,Electronics,2,150
+3,2023-01-10,C003,Denmark,Office Chair,Furniture,1,300
+4,2023-02-02,C001,Germany,Mouse,Electronics,3,25
+5,2023-02-15,C004,Sweden,Desk,Furniture,1,450
+6,2023-03-01,C005,Norway,Monitor,Electronics,2,400
+7,2023-03-12,C002,Netherlands,Keyboard,Electronics,1,100
+8,2023-03-20,C006,Germany,Bookshelf,Furniture,1,250
