@@ -1,4 +1,4 @@
-# sql-python-sales-analysis
+# SQL - Python Sales Analysis
 
 ## Project Overview
 This project demonstrates a simple end-to-end data analysis workflow using SQL and Python.
@@ -48,5 +48,5 @@ The project produces:
 - Aggregated tables using SQL
 - A revenue-by-product bar chart saved as an image
 
-Example output:
+## Example output:
 ![Revenue by Product](output/revenue_by_product.png)
