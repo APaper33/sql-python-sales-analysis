@@ -1,4 +1,4 @@
-# SQL - Python Sales Analysis
+# Sales Dataset Revenue Analysis (SQL + Python)
 
 ## Project Overview
 This project demonstrates a simple end-to-end data analysis workflow using SQL and Python.
